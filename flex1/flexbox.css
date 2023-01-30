@@ -1,0 +1,24 @@
+.conteiner{
+    background-color: aqua;
+    width: 900px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.circle{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}

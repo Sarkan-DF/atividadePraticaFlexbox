@@ -1,0 +1,24 @@
+.conteiner{
+    background-color: aqua;
+    width: 900px;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.circle{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.square{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    background-color: blue;
+    align-self: flex-end;
+}

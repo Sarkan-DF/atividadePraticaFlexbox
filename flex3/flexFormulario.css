@@ -1,0 +1,30 @@
+.container{
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    border: solid 1px black;
+    width: 400px;
+    height: 350px;
+}
+
+.descricao{
+    text-align: left;
+    margin-left: 10px;
+}
+
+#configForm{
+    text-align: center;
+}
+
+.input{
+    width: 95%;
+}
+
+#buttonSign{
+    width: 95%;
+}
